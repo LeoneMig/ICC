@@ -1,2 +1,2 @@
 # ICC
-Introduçã a Ciência da Computação
+Introdução a Ciência da Computação
